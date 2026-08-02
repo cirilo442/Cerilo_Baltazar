@@ -46,8 +46,12 @@ Desenvolvedor Full Stack movido por desafios técnicos e pela busca constante de
 
 ### 📊 Estatísticas
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cirilo442&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirilo442&theme=radical&layout=compact&langs_count=6&hide_border=true" />
+  <a href="https://github.com/cirilo442">
+    <img src="https://github-readme-stats.vercel.app/api?username=cirilo442&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/cirilo442">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirilo442&theme=radical&layout=compact&langs_count=6&hide_border=true&include_all_commits=true" alt="Linguagens mais usadas" />
+  </a>
 </div>
 
 ---
