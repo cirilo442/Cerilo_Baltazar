@@ -45,14 +45,15 @@ Desenvolvedor Full Stack movido por desafios técnicos e pela busca constante de
 ---
 
 ### 📊 Estatísticas
-<div align="center">
-  <a href="https://github.com/cirilo442">
-    <img src="https://github-readme-stats.vercel.app/api?username=cirilo442&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/cirilo442">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirilo442&theme=radical&layout=compact&langs_count=6&hide_border=true&include_all_commits=true" alt="Linguagens mais usadas" />
-  </a>
-</div>
+### 🛠 Stack Tecnológica & Nível de Domínio
+
+| Tecnologia | Nível de Experiência |
+| :--- | :--- |
+| **JavaScript** | ![90%](https://geps.dev/progress/90?dangerColor=F7DF1E) |
+| **React** | ![85%](https://geps.dev/progress/85) |
+| **Node.js** | ![75%](https://geps.dev/progress/75) |
+| **Python** | ![65%](https://geps.dev/progress/65) |
+| **Go / C#** | ![50%](https://geps.dev/progress/50) |
 
 ---
 
